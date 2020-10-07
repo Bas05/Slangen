@@ -5,3 +5,14 @@
      margin-right: 10px;
      background-color: rgb(119, 99, 77);
 }
+
+#button {
+height: 50px;
+width: 50px;
+
+}
+
+#redbutton {
+     border-bottom: 100px;
+
+}
