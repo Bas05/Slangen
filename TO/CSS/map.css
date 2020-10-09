@@ -3,7 +3,8 @@
      width: 1940px;
      padding: 10px;
      margin-right: 10px;
-     background-color: rgb(119, 99, 77);
+     background-color: rgb(89, 146, 148);
+     
 }
 
 #button {
@@ -12,7 +13,36 @@ width: 50px;
 
 }
 
-#redbutton {
-     border-bottom: 100px;
+li {
+    font-family: 'Verdana';
+    font-size: 40px;
+    border: 5px solid rgb(89, 146, 148);
+    background-color: rgb(245, 245, 245);
+    padding-right: 40px;
+    padding-left: 40px;
+    display: inline; /* inline block table */
+    /*
+    display: table;
+    width: 100px;
+    margin-bottom: 5px;
+    text-align: right;
+    */
+    
+}
 
+li:hover {
+    background-color: lightblue
+}
+
+h1 {
+    font-size: 30px
+}
+
+a {
+    color: rgb(92, 91, 94);
+    text-decoration: none;
+}
+
+#container {
+        
 }
