@@ -1,10 +1,7 @@
-#worldmap {
-     height: 1115px;
-     width: 1940px;
-     padding: 10px;
-     margin-right: 10px;
-     background-color: rgb(89, 146, 148);
-     
+html,body {
+    width: 220%;
+    height: 240%
+
 }
 
 #button {
@@ -43,6 +40,34 @@ a {
     text-decoration: none;
 }
 
-#container {
-        
+#russia {
+        right: 0px;
+        bottom: 0px;
+        left: 2700px;
+        top: 240px;
+        position: absolute;
 }
+
+#australia {
+        right: 0px;
+        bottom: 0px;
+        left: 3420px;
+        top: 1600px;
+        position: absolute;
+}
+
+#america {
+        right: 0px;
+        bottom: 0px;
+        left: 400px;
+        top: 580px;
+        position: absolute;
+}
+
+body {
+    background-image: url(../worldmap.png);
+    height: 1px;
+    width: 1px;
+}
+
+
