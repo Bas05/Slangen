@@ -1,22 +1,23 @@
 html,body {
     width: 100%;
     height: 100%;
-    background-color: rgb(177, 231, 213)
+    background-image: url(../jungle2.jpg);
 }
 
 
 h1 {
     font-family: 'Verdana';
-    background-color: rgb(92, 196, 132);
+    background-color:rgba(60, 141, 65, 0.849);
     padding-right: 10px;
     height: 45px;
     width: 1000px;
     padding: 10px;
+    color: aliceblue;
 }
 
 h2 {
     font-family: 'Verdana';
-    background-color: rgba(127, 214, 153, 0.623);
+    background-color: rgb(105, 185, 105);
     height: 30px;
     width: 800px;
 
@@ -25,6 +26,12 @@ h2 {
 
 h3 {
     font-family: 'Verdana';
-    background-color: rgba(72, 223, 117, 0.623);
+    background-color: rgb(105, 185, 105);
     width: 510px;
+    color:aliceblue;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
 }
