@@ -248,6 +248,14 @@ a {
         height: 100px;  
 }
 
+#greenland {
+    right: 0px;
+    bottom: 0px;
+    left: -1000px;
+    top: -530px;
+    position: absolute;
+
+}
 body {
     background-image: url(../worldmap.png);
     height: 1px;
