@@ -17,13 +17,7 @@ li {
     background-color: rgb(245, 245, 245);
     padding-right: 20px;
     padding-left: 20px;
-    display: inline; /* inline block table */
-    /*
-    display: table;
-    width: 100px;
-    margin-bottom: 5px;
-    text-align: right;
-    */
+    display: inline;
     
 }
 
@@ -256,10 +250,22 @@ a {
     position: absolute;
 
 }
+
+#backtohome {
+    right: 0px;
+    bottom: 0px;
+    left: -1340px;
+    top: -100px;
+    position: absolute;
+    height: 430px;
+    width: 400px;
+
+}
 body {
     background-image: url(../worldmap.png);
-    height: 1px;
     width: 1px;
+    height: 1px;
+    
 }
 
 
