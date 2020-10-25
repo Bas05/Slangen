@@ -66,187 +66,83 @@ a {
         position: absolute;
 }
 
-#eastern-south-america {
+#brazil {
         right: 0px;
         bottom: 0px;
-        left: -1980px;
-        top: 700px;
+        left: 590px;
+        top: 1100px;
         position: absolute;
 }
 
-#eastern-asia {
+#china {
         right: 0px;
         bottom: 0px;
-        left: 2500px;
-        top: 400px;
+        left: 2000px;
+        top: -700px;
         position: absolute;
         width: 600px;
         height: 100px;
 }
 
-#north-africa {
-        right: 0px;
-        bottom: 0px;
-        left: 800px;
-        top: -550px;
-        position: absolute;
-        width: 700px;
-        height: 100px;
-}
 
-#central-africa {
-        right: 0px;
-        bottom: 0px;
-        left: 50px;
-        top: 400px;
-        position: absolute;
-        width: 700px;
-        height: 100px;
-}
-
-#western-africa {
-        right: 0px;
-        bottom: 0px;
-        left: -260px;
-        top: -200px;
-        position: absolute;
-        width: 700px;
-        height: 100px;  
-}
-
-#east-africa {
-        right: 0px;
-        bottom: 0px;
-        left: 600px;
-        top: 80px;
-        position: absolute;
-        width: 700px;
-        height: 100px;
-}
-
-#southern-africa {
-        right: 0px;
-        bottom: 0px;
-        left: -240px;
-        top: 380px;
-        position: absolute;
-        width: 700px;
-        height: 100px;
-}
-
-#western-europe {
-        right: 0px;
-        bottom: 0px;
-        left: -220px;
-        top: -1040px;
-        position: absolute;
-        width: 400px;
-        height: 100px;
-}
-
-#northern-south-america {
+#south-africa {
         right: 0px;
         bottom: 0px;
         left: -1100px;
-        top: 660px;
+        top: 900px;
         position: absolute;
         width: 700px;
         height: 100px;
-
 }
 
 
-
-#southern-europe {
+#france {
         right: 0px;
         bottom: 0px;
-        left: 1200px;
-        top: -550px;
+        left: -190px;
+        top: -1080px;
         position: absolute;
         width: 400px;
-        height: 100px;
+        height: 100px; 
 }
 
-#eastern-europe {
+#italy {
         right: 0px;
         bottom: 0px;
-        left: 200px;
-        top: -80px;
+        left: 150px;
+        top: 80px;
         position: absolute;
         width: 400px;
-        height: 100px;
-
+        height: 100px; 
 }
 
-#northern-europe {
+#germany {
         right: 0px;
         bottom: 0px;
-        left: -150px;
+        left: -70px;
         top: -150px;
         position: absolute;
         width: 400px;
         height: 100px; 
 }
 
-#southern-south-america {
-        right: 0px;
-        bottom: 0px;
-        left: -1100px;
-        top: 1400px;
-        position: absolute;
-        width: 600px;
-        height: 100px;
-
-}
-
-
-#western-south-america {
-        right: 0px;
-        bottom: 0px;
-        left: -400px;
-        top: -300px;
-        position: absolute;
-        width: 600px;
-        height: 100px;  
-
-}
-
 #mexico {
         right: 0px;
         bottom: 0px;
-        left: 0px;
-        top: -550px;
+        left: -1500px;
+        top: 450px;
         position: absolute;
         width: 600px;
         height: 100px;  
 
 }
 
-#south-asia {
-        right: 0px;
-        bottom: 0px;
-        left: 2430px;
-        top: 0px;
-        position: absolute;
-        width: 600px;
-        height: 100px;  
-}
-
-#western-asia {
-        right: 0px;
-        bottom: 0px;
-        left: -490px;
-        top: -250px;
-        position: absolute;
-        width: 600px;
-        height: 100px;  
-}
 
 #greenland {
     right: 0px;
     bottom: 0px;
-    left: -1000px;
-    top: -530px;
+    left: 1000px;
+    top: -800px;
     position: absolute;
 
 }
@@ -254,13 +150,37 @@ a {
 #backtohome {
     right: 0px;
     bottom: 0px;
-    left: -1340px;
-    top: -100px;
+    left: -1380px;
+    top: -80px;
     position: absolute;
     height: 430px;
     width: 400px;
 
 }
+
+
+#egypt {
+    right: 0px;
+    bottom: 0px;
+    left: 2140px;
+    top: 800px;
+    position: absolute;
+    height: 430px;
+    width: 400px;
+    
+}
+
+#spain {
+    right: 0px;
+    bottom: 0px;
+    left: -400px;
+    top: -200px;
+    position: absolute;
+    height: 430px;
+    width: 400px;
+    
+}
+
 body {
     background-image: url(../worldmap.png);
     width: 1px;
