@@ -33,34 +33,39 @@ h2 {
 
 h3 {
     font-family: 'Verdana';
-    width: 510px;
+    width: 1500px;
     color:rgb(0, 0, 0);
 }
 
 h4 {
     font-size: 50px;
     width: 1500px; 
+    font-family: 'Verdana';
 }
 
 h4 {
     font-size: 50px;
-    width: 1200px; 
-    background-color: rgba(167, 74, 51, 0.863);
-    color: white
+    width: 1600px; 
+    background-color: #466289;
+    color: white;
+    font-family: 'Verdana';
 }
 
 h5 {
-    font-size: 50px;
-    width: 1500px; 
-    height: 0px;
+    width: 1200px; 
+    height: 40px;
     color: aliceblue;
-    font-size: 30px
+    background-color: #A0AEC1;
+    font-size: 30px;
+    font-family: 'Verdana';
 }
 
 h6 {
-    font-size: 50px;
+    font-size: 40px;
     width: 1500px; 
-    color: whitesmoke;
+    background-color: #DBE8F9;
+    color: #627894;
+    font-family: 'Verdana';
 }
 #container {
         background-color: rgba(168, 137, 101, 0.705);
@@ -151,12 +156,6 @@ body {
 .snakegif3 {
     height: 51%;
     width: 30%
-}
-
-
-a {
-    color: rgb(78, 74, 74);
-    text-decoration: none;
 }
 
 
@@ -321,16 +320,17 @@ width: 50px;
     margin-top: -20px;
 }
 
-.jungle {
-    background-image: url(jungle2.jpg);
-    height: 4000px;
-    width: 2000px;
-    margin-left: -20px;
-    margin-top: -20px;
-}
-
 .snake {
     padding: 10px;
-    background-color: aliceblue;
-    margin-top: -100px
+    background-color: #627894;
+    margin-top: -90px
 }
+
+.background {
+    background-image: url(jungle2.jpg);
+    background-color: #DBE8F9;
+    width: 1500px;
+    height: 4000px;
+
+}
+
