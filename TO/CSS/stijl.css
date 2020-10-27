@@ -20,6 +20,48 @@ h1 {
   
 }
 
+h2 {
+   padding-left: 125px;
+    margin-left: -25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+     font-family: 'Verdana';
+     font-size: 35px;
+     border: 25px;
+}
+
+h3 {
+    font-family: 'Verdana';
+    width: 510px;
+    color:rgb(0, 0, 0);
+}
+
+h4 {
+    font-size: 50px;
+    width: 1500px; 
+}
+
+h4 {
+    font-size: 50px;
+    width: 1200px; 
+    background-color: rgba(167, 74, 51, 0.863);
+    color: white
+}
+
+h5 {
+    font-size: 50px;
+    width: 1500px; 
+    height: 0px;
+    color: aliceblue;
+    font-size: 30px
+}
+
+h6 {
+    font-size: 50px;
+    width: 1500px; 
+    color: whitesmoke;
+}
 #container {
         background-color: rgba(168, 137, 101, 0.705);
         color:whitesmoke;
@@ -33,12 +75,12 @@ h1 {
 }
 
 li {
-    font-family: 'Verdana';
+    font-family: 'Turret Road', cursive;
     font-size: 40px;
     border: 5px solid rgba(110, 68, 43, 0.87);
     background-color: rgb(245, 245, 245);
-    padding-right: 40px;
-    padding-left: 40px;
+    padding-right: 30px;
+    padding-left: 30px;
     display: inline;
 }
 
@@ -62,17 +104,6 @@ body {
     background-image: url(../slangg.jpg) ;
     width: 1000px;
     height: 1000px;
-}
-
-h2 {
-   padding-left: 125px;
-    margin-left: -25px;
-    margin-top: 30px;
-    margin-bottom: 10px;
-    margin-right: 0px;
-     font-family: 'Verdana';
-     font-size: 35px;
-     border: 25px;
 }
 
 .logo {
@@ -123,14 +154,8 @@ h2 {
 }
 
 
-h3 {
-    font-family: 'Verdana';
-    width: 510px;
-    color:rgb(0, 0, 0);
-}
-
 a {
-    color: aliceblue;
+    color: rgb(78, 74, 74);
     text-decoration: none;
 }
 
@@ -139,27 +164,6 @@ a {
 height: 50px;
 width: 50px;
 
-}
-
-li {
-    font-family: "Turret Road", cursive;
-    font-size: 40px;
-    border: 5px solid rgb(121, 76, 68));
-    background-color: rgb(245, 245, 245);
-    padding-right: 20px;
-    padding-left: 20px;
-    display: inline;
-    
-}
-
-li:hover {
-    background-color: lightblue
-}
-
-
-a {
-    color: rgb(92, 91, 94);
-    text-decoration: none;
 }
 
 #russia {
@@ -278,8 +282,8 @@ a {
 #backtohome {
     right: 0px;
     bottom: 0px;
-    left: -1380px;
-    top: -80px;
+    left: -1382px;
+    top: -75px;
     position: absolute;
     height: 430px;
     width: 400px;
@@ -309,7 +313,24 @@ a {
     
 }
 
+.worldmap {
+    background-image: url(worldmap.png);
+    height: 2550px;
+    width: 4500px;
+    margin-left: -20px;
+    margin-top: -20px;
+}
 
-.map {
-    background-image: url(Map.jpg)
+.jungle {
+    background-image: url(jungle2.jpg);
+    height: 4000px;
+    width: 2000px;
+    margin-left: -20px;
+    margin-top: -20px;
+}
+
+.snake {
+    padding: 10px;
+    background-color: aliceblue;
+    margin-top: -100px
 }
