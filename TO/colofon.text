@@ -1,3 +1,8 @@
+Ik heb in mijn map.html op sommige plekken een <div> niet afgesloten. Ik ben bewust
+van deze fout, alleen als ik de <div> wel afsluit, positioneren sommige <li> niet goed.
+Vandaar heb ik sommige <div> dus niet afgesloten.
+Hierdoor ziet de W3 Validator de </body> als: "End tag for body seen, but there were unclosed elements."
+
 Bronnen: 
 
 https://www.wikipedia.org/
