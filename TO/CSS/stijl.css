@@ -191,7 +191,7 @@ width: 50px;
 
 #canada {
         right: 0px;
-        bottom: px;
+        bottom: 0px;
         left: 70px;
         top: -300px;
         position: absolute;
@@ -330,7 +330,7 @@ width: 50px;
     background-image: url(jungle2.jpg);
     background-color: #DBE8F9;
     width: 1500px;
-    height: 4000px;
+    height: 2000px;
 
 }
 
