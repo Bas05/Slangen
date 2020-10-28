@@ -37,11 +37,6 @@ h3 {
     color:rgb(0, 0, 0);
 }
 
-h4 {
-    font-size: 50px;
-    width: 1500px; 
-    font-family: 'Verdana';
-}
 
 h4 {
     font-size: 50px;
@@ -182,7 +177,7 @@ width: 50px;
 }
 
 #america {
-        right: 0px;
+        right: 0px;         
         bottom: 0px;
         left: 400px;
         top: 580px;
