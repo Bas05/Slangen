@@ -1,3 +1,5 @@
+Voor het nakijken: index.html is het begin van mijn website (de homepagina).
+
 Ik heb in mijn map.html op sommige plekken een <div> niet afgesloten. Ik ben bewust
 van deze fout, alleen als ik de <div> wel afsluit, positioneren sommige <li> niet goed.
 Vandaar heb ik sommige <div> dus niet afgesloten.
